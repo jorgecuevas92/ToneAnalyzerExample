@@ -2,7 +2,7 @@
 applications:
 - disk_quota: 256M
   buildpack: nodejs_buildpack
-  host: bluemix-toneworkshop.net
+  host: jorge-bluemix-tone
   name: helloWatsonToneDemo
   command: node app.js
   path: .
